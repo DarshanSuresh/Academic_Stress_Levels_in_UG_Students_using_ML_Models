@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific ignores
+# Ignore generated data files but keep directory structure
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ignore generated visualizations
+notebooks/*.png
+notebooks/*.jpg
+notebooks/*.jpeg
+notebooks/*.svg
+notebooks/*.pdf
+
+# Ignore notebook outputs (keep only clean notebooks)
+# Uncomment if you want to ignore all notebook outputs
+# notebooks/*.ipynb
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
