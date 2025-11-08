@@ -174,10 +174,8 @@ Contributions are welcome!
 
 ## 📬 Contact  
 
-👤 **Author:** Darshan Suresh  
-🎓 **BCA Graduate – Amrita University**  
-💼 **Aspiring Data Scientist | GDG Bengaluru Program Head**  
-🌐 [LinkedIn](https://www.linkedin.com/in/darshan-suresh) • [GitHub](https://github.com/DarshanSuresh)  
+🌐 [LinkedIn](https://www.linkedin.com/in/darshan-suresh) • [GitHub](https://github.com/DarshanSuresh) 
+darshansuresh1804@gmail.com
 
 ---
 
