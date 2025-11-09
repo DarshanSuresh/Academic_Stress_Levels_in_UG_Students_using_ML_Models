@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objective  
+## 🎯 Objective
 
 **MINDSTAT** explores how meditation practices influence **academic stress levels** among undergraduate students. Using quantitative and machine learning approaches, the project analyzes behavioral and emotional indicators to classify stress before and after meditation. The goal is to build predictive models that identify how meditation contributes to mental well-being and academic balance.  
 
