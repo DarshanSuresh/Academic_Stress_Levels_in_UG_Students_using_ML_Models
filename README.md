@@ -4,7 +4,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Active-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-blue.svg)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-blue.svg) 
 
 ---
 
