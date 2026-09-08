@@ -1,6 +1,6 @@
 # 🧘‍♂️ MINDSTAT – Measuring the Impact of Meditation on Academic Stress Levels in UG Students using Machine Learning Models  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg) 
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Active-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
